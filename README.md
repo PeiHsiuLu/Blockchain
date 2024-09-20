@@ -1,7 +1,14 @@
 # Blockchain
 台大薛智文教授：區塊鍊導論課程學習筆記
 
+# Blockchain的 Hello World
+[build OurChain line by lineLinks to an external site.](https://hackmd.io/Bo8C0LogQfmq_eSuOExr0w)  
 # 期末專題
+
+# 參考書籍
+[1.Mastering Bitcoin 2nd Edition - 繁中](https://github.com/cypherpunks-core/bitcoinbook_2nd_zh)  
+[2.Mastering Ethereum - 繁中](https://github.com/ChenPoWei/ethereumbook_zh/)  
+[3.
 
 # 上課筆記
 [1.9/16筆記](#916筆記)  
