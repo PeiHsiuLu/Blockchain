@@ -8,7 +8,7 @@
 # 參考書籍
 [1.Mastering Bitcoin 2nd Edition - 繁中](https://github.com/cypherpunks-core/bitcoinbook_2nd_zh)  
 [2.Mastering Ethereum - 繁中](https://github.com/ChenPoWei/ethereumbook_zh/)  
-[3.
+[3.區塊鏈原理設計與應用](https://poweichen.gitbook.io/blockchain-guide-zh)  
 
 # 上課筆記
 [1.9/16筆記](#916筆記)  
