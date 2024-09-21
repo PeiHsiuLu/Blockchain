@@ -50,7 +50,11 @@
 ### bitcoinbook_2nd_zh 第三章學習筆記
 如果要開發比特幣，必須先在linux環境創建 BitcoinCore 的開發環境。  
 開發環境以後，可以使用 bitcoind --help 尋找到對自己有幫助的指令。 
-以下是幾個常見的好用指令：  
+以下是幾個常見的好用指令： 
+- 將bitcoin core 作為後端運行的指令(很重要，許多指令開始之前必須先用到這個指令
+  ```bash
+  bitcoind -daemon
+  ```
 
 - 查閱節點的進程和運行狀態  
 ```bash
