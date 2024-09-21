@@ -10,7 +10,7 @@
 [2.Mastering Ethereum - 繁中](https://github.com/ChenPoWei/ethereumbook_zh/)  
 [3.區塊鏈原理設計與應用](https://poweichen.gitbook.io/blockchain-guide-zh)  
 
-# 上課筆記
+# 上課筆記&學習紀錄
 [1.9/16筆記](#916筆記)  
 [2.9/23筆記](#923筆記)  
 [3.9/30筆記](#930筆記)
@@ -45,5 +45,20 @@
 * 交易優先級與失敗風險：支付較高手續費可提升交易優先處理，減少等待和失敗風險。
 
 ## 9/23筆記
+### bitcoinbook_2nd_zh 第三章學習筆記
+如果要開發比特幣，必須先在linux環境創建 BitcoinCore 的開發環境。  
+開發環境以後，可以使用 bitcoind --help 尋找到對自己有幫助的指令。 
+以下是幾個常見的好用指令：  
 
+- 查閱節點的進程和運行狀態  
+```bash
+bitcoin-cli getblockchaininfo
+```
+\n
+- 
+
+
+
+   
+### 上課筆記：
 ## 9/30筆記
